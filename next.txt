@@ -1,2 +1,5 @@
-next file
-next file
+Notepad++ also comes with the Word Wrap option like many other text editors. Here you can enable the Notepad++ word wrap feature within a few steps.
+
+Step 1. Launch Notepad++ from the Windows search menu.
+
+Step 2. Open the file that you want to wrap text, and then navigate to the View tab and select Word wrap from the pop-up menu. Then all the lines in the file will be wrapped to fit within the window.
