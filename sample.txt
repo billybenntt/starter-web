@@ -4,3 +4,4 @@ In a way, forking can be analogous to handling files in Google Drive as it refer
 
 Notepad++ also comes with the Word Wrap option like many other text editors. Here you can enable the Notepad++ word wrap feature within a few steps.
 
+Notepad++ also comes with the Word Wrap option like many other text editors. Here you can enable the Notepad++ word wrap feature within a few steps.
