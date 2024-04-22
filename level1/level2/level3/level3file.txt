@@ -1,7 +1,0 @@
-PATH: Answered long ago, however, it maybe more helpful to think of -p as "Path" (easier to remember), as in this causes mkdir to create every part of the path that isn't already there.
-
-mkdir -p /usr/bin/comm/diff/er/fence
-
-if /usr/bin/comm already exists, it acts like: mkdir /usr/bin/comm/diff mkdir /usr/bin/comm/diff/er mkdir /usr/bin/comm/diff/er/fence
-
-As you can see, it saves you a bit of typing, and thinking, since you don't have to figure out what's already there and what isn't.
