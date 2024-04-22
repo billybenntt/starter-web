@@ -1,3 +1,6 @@
 Forking creates your own copy of another existing repository in the remote location; when you fork, nothing changes in your local storage. Instead, a new repository will be initiated with the contents of the existing repository copied over on your remote account.
 
 In a way, forking can be analogous to handling files in Google Drive as it refers to making a copy of a document (say, a Google Docs document) that is yours to edit as much as you’d like. The main difference here is that forks retain a link to their original repositories (allows for specific use cases like pull requests to happen easily), but you can still clone and make changes to this fork.
+
+Notepad++ also comes with the Word Wrap option like many other text editors. Here you can enable the Notepad++ word wrap feature within a few steps.
+
